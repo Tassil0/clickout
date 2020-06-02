@@ -1,0 +1,9 @@
+C:\Users\Filip\source\repos\clickout\clickout\bin\Debug\clickout.exe.config
+C:\Users\Filip\source\repos\clickout\clickout\bin\Debug\clickout.exe
+C:\Users\Filip\source\repos\clickout\clickout\bin\Debug\clickout.pdb
+C:\Users\Filip\source\repos\clickout\clickout\obj\Debug\clickout.csprojAssemblyReference.cache
+C:\Users\Filip\source\repos\clickout\clickout\obj\Debug\clickout.Form1.resources
+C:\Users\Filip\source\repos\clickout\clickout\obj\Debug\clickout.Properties.Resources.resources
+C:\Users\Filip\source\repos\clickout\clickout\obj\Debug\clickout.csproj.GenerateResource.cache
+C:\Users\Filip\source\repos\clickout\clickout\obj\Debug\clickout.exe
+C:\Users\Filip\source\repos\clickout\clickout\obj\Debug\clickout.pdb
